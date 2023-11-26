@@ -1,0 +1,43 @@
+.img-container{
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    background-color: gray;
+    background-image: url();
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 30px;
+}
+
+.container-buttom{
+    display: flex;
+    width: 500px;
+    margin: auto;
+    justify-content: space-between;
+}
+
+input{
+    padding: 10px;
+    width: 240px;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.si{
+    background: green;
+    border: 2px solid darkgreen;
+}
+
+.no{
+    background: red;
+    border: 2px solid darkred;
+}
+
+.Te-gustan{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: lighter;
+}
